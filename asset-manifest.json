@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Digital-Business-Card/static/css/main.c50aa2d0.css",
+    "main.js": "/Digital-Business-Card/static/js/main.26d218d5.js",
+    "static/js/787.bc412fff.chunk.js": "/Digital-Business-Card/static/js/787.bc412fff.chunk.js",
+    "static/media/laura.png": "/Digital-Business-Card/static/media/laura.a47159f8e75eec5bbe14.png",
+    "index.html": "/Digital-Business-Card/index.html",
+    "main.c50aa2d0.css.map": "/Digital-Business-Card/static/css/main.c50aa2d0.css.map",
+    "main.26d218d5.js.map": "/Digital-Business-Card/static/js/main.26d218d5.js.map",
+    "787.bc412fff.chunk.js.map": "/Digital-Business-Card/static/js/787.bc412fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50aa2d0.css",
+    "static/js/main.26d218d5.js"
+  ]
+}
